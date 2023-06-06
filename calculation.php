@@ -17,3 +17,4 @@ do {
         echo "<strong> Subtraction: </strong>" . $sub;
         echo "<strong>Answer :</strong> " . $newResult;
 }
+?>
